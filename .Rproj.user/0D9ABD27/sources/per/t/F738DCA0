@@ -1,18 +1,18 @@
 {
-    "id": "567A2835",
+    "id": "F738DCA0",
     "path": "~/GitHub/zhulab/config.yaml",
     "project_path": "config.yaml",
     "type": "yaml",
     "hash": "3569211610",
     "contents": "",
-    "dirty": true,
-    "created": 1653143922341.0,
+    "dirty": false,
+    "created": 1653129161859.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "5,26",
+        "cursorPosition": "14,19",
         "scrollLine": "0"
     },
     "folds": "",
@@ -20,7 +20,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1653144092203,
+    "last_content_update": 1653144092,
     "read_only": false,
     "read_only_alternatives": []
 }
