@@ -1,6 +1,6 @@
 ---
 description: ''
-featured_image: /images/ucsc-entrance-sign-600x273.jpg
+
 menu:
   main:
     weight: 1

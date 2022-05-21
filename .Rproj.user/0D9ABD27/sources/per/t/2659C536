@@ -1,19 +1,17 @@
 {
-    "id": "D9DD2164",
-    "path": "~/GitHub/zhulab/themes/gohugo-theme-ananke/exampleSite/content/en/_index.md",
-    "project_path": "themes/gohugo-theme-ananke/exampleSite/content/en/_index.md",
+    "id": "2659C536",
+    "path": "~/GitHub/zhulab/themes/gohugo-theme-ananke/exampleSite/content/en/about/index.md",
+    "project_path": "themes/gohugo-theme-ananke/exampleSite/content/en/about/index.md",
     "type": "markdown",
-    "hash": "0",
+    "hash": "2775099719",
     "contents": "",
     "dirty": false,
-    "created": 1653145425365.0,
+    "created": 1653145965648.0,
     "source_on_save": false,
-    "relative_order": 10,
+    "relative_order": 11,
     "properties": {
         "source_window_id": "",
-        "Source": "Source",
-        "cursorPosition": "4,123",
-        "scrollLine": "0"
+        "Source": "Source"
     },
     "folds": "",
     "lastKnownWriteTime": 1653072714,

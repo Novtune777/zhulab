@@ -1,8 +1,6 @@
 ---
-cascade:
-  featured_image: /images/Pope-Edouard-de-Beaumont-1844.jpg
-description: 
 theme_version: 2.8.2
+
 title: 'We are global ecologists and quantitative environmental scientists, interested in the intersection of climate change, biodiversity, and ecosystem processes.
 '
 ---
