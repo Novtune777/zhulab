@@ -1,6 +1,6 @@
 ---
 description: ''
-featured_image: /images/Victor_Hugo-Hunchback.jpg
+featured_image: /images/gohugo-default-sample-hero-image.jpg
 menu:
   main:
     weight: 1
