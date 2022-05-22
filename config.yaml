@@ -1,4 +1,11 @@
 
+title: Notre-Dame de Paris
+languageCode: en-us
+theme: zhulab
+resourceDir: ../resources
+DefaultContentLanguage: en
+
+
 SectionPagesMenu: main
 
 
