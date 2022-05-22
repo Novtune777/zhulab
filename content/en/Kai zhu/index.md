@@ -1,7 +1,5 @@
 ---
 
-cascade:
-  featured_image: /images/background.jpg
 description: 'Associate Professor, Environmental Studies
 Affiliated Faculty, Coastal Science and Policy'
 menu:
@@ -20,3 +18,7 @@ Google Scholar: [link](https://scholar.google.com/citations?user=U6oAkAYAAAAJ)
 New Phytologist profile: [link](https://doi.org/10.1111/nph.17026)
 
 Email: kai dot zhu at ucsc dot edu
+
+
+cascade:
+  featured_image: /images/background.jpg

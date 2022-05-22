@@ -1,7 +1,5 @@
 ---
 
-cascade:
-  featured_image: /images/background.jpg
 description: ''
 menu:
   main:
@@ -32,3 +30,8 @@ Email: mvannula at stanford dot edu
 Website: [https://www.michaelvannuland.com/](https://www.michaelvannuland.com/)
 __________________________________________
 
+
+
+
+cascade:
+  featured_image: /images/background.jpg
