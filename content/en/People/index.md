@@ -1,7 +1,8 @@
 ---
-description: ''
 
-featured_image: /images/background.jpg
+cascade:
+  featured_image: /images/background.jpg
+description: ''
 menu:
   main:
     weight: 1
