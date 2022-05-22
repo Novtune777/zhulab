@@ -33,5 +33,3 @@ __________________________________________
 
 
 
-cascade:
-  featured_image: /images/background.jpg

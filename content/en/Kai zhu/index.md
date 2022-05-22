@@ -20,4 +20,3 @@ New Phytologist profile: [link](https://doi.org/10.1111/nph.17026)
 Email: kai dot zhu at ucsc dot edu
 
 
-featured_image: /images/background.jpg

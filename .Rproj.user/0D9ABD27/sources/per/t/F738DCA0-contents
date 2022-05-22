@@ -11,6 +11,7 @@ SectionPagesMenu: main
 
 
 
+
 Paginate: 3
 googleAnalytics: ''
 enableRobotsTXT: yes
@@ -33,5 +34,4 @@ params:
   site_logo: ''
   text_color: ''
   
-cascade:
-  featured_image: /images/background.jpg
+
