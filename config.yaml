@@ -26,7 +26,7 @@ params:
     - name: twitter
       url: https://twitter.com/GoHugoIO
   author: ''
-  background_color_class: bg-gray
+  
   description: 
   favicon: ''
   recent_posts_number: 2
