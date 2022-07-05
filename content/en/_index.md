@@ -17,4 +17,3 @@ Stay tuned on the latest lab news, find out people and opportunities to join the
 
 {{< figure src="/images/ucsc-entrance-sign-600x273.jpg">}}
 
-
