@@ -15,4 +15,5 @@ Zhu Lab is located in the [Department of Environmental Studies](https://envs.ucs
 
 Stay tuned on the latest lab news, find out people and opportunities to join the lab, follow research and publications to learn more about what we do, and check out the teaching resources!
 
+{{< figure src="/images/ucsc-entrance-sign-600x273.jpg">}}
 
