@@ -10,7 +10,7 @@ SectionPagesMenu: main
 
 
 cascade:
-featured_image: /images/background.jpg
+  featured_image: /images/background.jpg
 
 
 Paginate: 3

@@ -8,7 +8,8 @@ description: Associate Professor, Environmental Studies Affiliated Faculty, Coas
 output:
   html_document:
     df_print: paged
-featured_image: /images/background.jpg
+cascade:
+  featured_image: /images/background.jpg
 ---
 {{< figure src="/images/Kai-Zhu-UCSC-small-1024x1024.jpg" title="Dr. Kai Zhu" >}}
 
