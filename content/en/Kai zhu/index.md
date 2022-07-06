@@ -1,11 +1,13 @@
 ---
-
-description: 'Associate Professor, Environmental Studies
-Affiliated Faculty, Coastal Science and Policy'
+title: "Kai Zhu"
 menu:
   main:
     weight: 1
-title: Kai Zhu
+description: Associate Professor, Environmental Studies Affiliated Faculty, Coastal
+  Science and Policy
+output:
+  html_document:
+    df_print: paged
 ---
 {{< figure src="/images/Kai-Zhu-UCSC-small-1024x1024.jpg" title="Dr. Kai Zhu" >}}
 
