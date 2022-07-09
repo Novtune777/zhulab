@@ -8,6 +8,9 @@ title: People
 ---
 {{< figure src="/images/peter-e1594424008602.png" title="Peter Pellitier" >}}
 
+featured_image: '/images/background.jpg'
+
+
 **Postdoc, Stanford Biology & UC Santa Cruz Environmental Studies**
 
 

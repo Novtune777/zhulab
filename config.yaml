@@ -27,7 +27,7 @@ languages:
 params:
   ananke_socials:
     - name: twitter
-      url: https://twitter.com/GoHugoIO
+      url: https://zhulab.ucsc.edu/
   author: ''
   
   description: 

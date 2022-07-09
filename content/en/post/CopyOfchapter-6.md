@@ -2,7 +2,7 @@
 date: "2022-04-4T11:25:05-04:00"
 description: Esmeralda
 disable_share: false
-featured_image: /images/neon-webinar-1200x750.jpg
+featured_image: '/images/neon-webinar-1200x750.jpg'
 tags: []
 title: 'Clara presented at NEON webinar'
 ---
