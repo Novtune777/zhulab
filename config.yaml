@@ -6,7 +6,11 @@ resourceDir: ../resources
 DefaultContentLanguage: en
 
 
+<<<<<<< HEAD
 SectionPagesMenu: main 
+=======
+SectionPagesMenu: main
+>>>>>>> 4b2497bb3bad16cfa5fc04fea4fd6e5a663883d6
 
 
 cascade:
